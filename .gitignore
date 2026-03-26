@@ -1,0 +1,5 @@
+*.swp
+*.sldprt
+*.sldasm
+__pycache__/
+.vscode/
