@@ -1,5 +1,5 @@
 # 🚀 Rocket Fin Generator for SolidWorks
-
+![Rocket Fin Model](assets/fin_result.png)
 Bu proje, Python ve SolidWorks API kullanarak aerodinamik roket kanatçıklarını (Fin) otomatik olarak modelleyen bir mühendislik aracıdır.
 
 ## ✨ Özellikler
